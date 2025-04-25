@@ -1,12 +1,13 @@
-# React + Vite
+# Create a Todo-App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Need to keep track of tasks to do. So I remember to get them don
 
-Currently, two official plugins are available:
+## Solution:
+Create an application to keep track of tasks that exist already and be able to add new tasks to it. By ulitizing these 
+### 👩‍💻Technology:-
+🦾React.js
+☑️Css
+Fanta.css
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
